@@ -1,6 +1,6 @@
 /********** Template CSS **********/
 :root {
-    --primary: rgb(42, 204, 204);
+     --primary: rgb(13, 161, 161);
     --secondary: #fea03b;
     --light: #F0F6FF;
     --dark: #262B47;
@@ -75,6 +75,8 @@ h6,
     overflow: hidden;
     border: none;
     color: #FFFFFF;
+    border: 3px solid #e6e6e6;
+    border-radius: 8px;
     z-index: 1;
 }
 
